@@ -1,20 +1,23 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+# Shunzhang Chen
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+📞 +86 17347034448 | +65 83490730
+📧 [chenshunzhang823@gmail.com](mailto:chenshunzhang823@gmail.com) | [CHEN1991@e.ntu.edu.sg](mailto:CHEN1991@e.ntu.edu.sg)
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+---
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+## 🎓 Education
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Beijing Institute of Technology**, Beijing, China
+**Bachelor of Science in Artificial Intelligence**
+*Sep 2021 – Jul 2025*
 
-#### Research Interests  
-XX, XX, XX, XX.
+* GPA: 3.7/4.0, 89.73/100 (Ranking: 5/76)
+* Relevant Coursework: Computer Vision, Natural Language Processing, Deep Learning, Text Mining
+
+**Nanyang Technological University**, Singapore
+**Incoming Master of Artificial Intelligence**
+*Starting August 2025*
+
+* School: College of Computer and Data Science (CCDS)
